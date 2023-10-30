@@ -12,3 +12,6 @@ One of the tasks given is to create a tracking dashboard revealing its insights 
 Problem Statement:
 Create a tracking dashboard for a bank using the “Bank term deposit subscription’ dataset provided.
 
+![POWER BI TASK 3 Bank vitualization](https://github.com/Tonyigba/POWER-BI-TASK-3/assets/143624967/0ca459e6-688e-49aa-b4af-b261b61e7368)
+
+
